@@ -1,0 +1,7 @@
+apiVersion: v2
+name: argocd_infra
+description: ArgoCD
+type: application
+
+version: v1.0.0
+appVersion: v1.0.0
